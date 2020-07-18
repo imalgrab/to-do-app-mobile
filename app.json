@@ -1,0 +1,12 @@
+{
+  "name": "todoappmobile",
+  "displayName": "todoappmobile",
+  "expo": {
+    "name": "todoappmobile",
+    "slug": "todoappmobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
