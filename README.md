@@ -1,10 +1,7 @@
 ## to-do-app for mobile devices
 powered by React Native, TypeScript, Expo amd React Native Elements
 
-![a](https://imgur.com/a/tZI72Wa)
-
-![b](https://imgur.com/a/ZReteqs)
-
-![c](https://imgur.com/a/l73eeWl)
-
-![d](https://imgur.com/a/4Y1UVtj)
+![](https://i.imgur.com/3ay07iz.png)
+![](https://i.imgur.com/ST4ckYm.png)
+![](https://i.imgur.com/rV9gsI9.png)
+![](https://i.imgur.com/klWrF0H.png)
